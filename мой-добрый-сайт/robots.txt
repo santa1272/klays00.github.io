@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://wondrous-kelpie-8f5f0a.netlify.app/sitemap.xml
